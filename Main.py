@@ -1,7 +1,6 @@
 import requests # musisz to zainstalować "pip install requests"
 import tkinter as tk
 from tkinter import ttk
-# TU SĄ FUNKCJE SAME
 
 # liczba rekordów do wyświetlenia (początkowa ( i globalna))
 display_limit = 20
